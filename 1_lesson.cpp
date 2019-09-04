@@ -4,7 +4,7 @@
 #include <math.h>
 
 using namespace std;
-äüõ
+
 int main()
 {
 	const float E = 2.71828182845;
