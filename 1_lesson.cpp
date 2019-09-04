@@ -4,18 +4,17 @@
 #include <math.h>
 
 using namespace std;
-ไü๕
+รครผรต
 int main()
 {
-	const float PI = 3.14159265359;
 	const float E = 2.71828182845;
 
-	float y_1, j_1; //varibles for mathematical formula น1 
-	float z_2, x_2, a_2; //varibles for mathematical formula น2 
-	float x_3; //varibles for mathematical formula น3 
-	float x_4 = 11, a_4, b_4; //varibles for mathematical formula น4 
-	float x_5 = 11; //varibles for mathematical formula น4 
-	float x_6 = 11, p_6 = 2.6; //varibles for mathematical formula น4 
+	float y_1, j_1; //varibles for mathematical formula ยน1 
+	float z_2, x_2, a_2; //varibles for mathematical formula ยน2 
+	float x_3; //varibles for mathematical formula ยน3 
+	float x_4 = 11, a_4, b_4; //varibles for mathematical formula ยน4 
+	float x_5 = 11; //varibles for mathematical formula ยน4 
+	float x_6 = 11, p_6 = 2.6; //varibles for mathematical formula ยน4 
 
 	int choose_formula; //input choose value (angle or radian)
 
