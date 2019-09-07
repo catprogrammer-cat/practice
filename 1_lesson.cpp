@@ -1,3 +1,5 @@
+//my code to practice to make formuls on c++
+
 #include <iostream>
 #include <string>
 #include <cmath>
